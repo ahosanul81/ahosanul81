@@ -1,6 +1,4 @@
-________________________________________________________________________________________________________________________________________________________________________________
 ## Hi I'm Ahosanul👋
-________________________________________________________________________________________________________________________________________________________________________________
 
 I am a motivated front-end developer with expertise in HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React JS, Next JS, Express JS, Node JS, and MongoDB. I am adept at creating sleek, responsive, and dynamic web applications. I am enthusiastic about utilizing my skills to develop cutting-edge projects and collaborate with others in the tech community.
 
