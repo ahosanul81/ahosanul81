@@ -25,6 +25,7 @@ I am a motivated front-end developer with expertise in HTML5, CSS3, Tailwind CSS
 
 
 ### Technologies I Work With
+<hr/>
 
 - **HTML5**: Crafting semantic and accessible web content.
 - **CSS3**: Styling with modern design principles and responsiveness.
