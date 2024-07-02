@@ -1,5 +1,9 @@
 ## Hi I'm Ahosanul👋
 
+<div>
+  <p><a href="https://www.linkedin.com/in/md-ahosanul-islam-208150262/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></p>
+</div>
+
 <div align="center">
   <p> <img src="https://res.cloudinary.com/dgs2ywdd6/image/upload/v1719911729/Brown_Minimalist_Home_Interior_Design_Banner_zyaini.png" alt="banner" /></p>
 </div>
