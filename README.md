@@ -1,7 +1,27 @@
 ## Hi I'm Ahosanul👋
 
+<div align="center">
+  <p> <img src="https://res.cloudinary.com/dgs2ywdd6/image/upload/v1719911729/Brown_Minimalist_Home_Interior_Design_Banner_zyaini.png" alt="banner" /></p>
+</div>
+<br/>
+
+
 ### About Me
 I am a motivated front-end developer with expertise in HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React JS, Next JS, Express JS, Node JS, and MongoDB. I am adept at creating sleek, responsive, and dynamic web applications. I am enthusiastic about utilizing my skills to develop cutting-edge projects and collaborate with others in the tech community.
+
+### Current Contribution
+<hr/>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahosanul81&" alt="ahosanul81" /></p>
+</div>
+
+### My Github Language Contribution
+<hr/>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahosanul81&show_icons=true&locale=en&layout=compact" alt="ahosanul81" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahosanul81&show_icons=true&locale=en" alt="ahosanul81" /></p>
+</div>
+
 
 
 ### Technologies I Work With
