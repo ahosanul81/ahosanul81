@@ -12,7 +12,19 @@
 
 
 ### About Me
+<hr/>
 I am a motivated front-end developer with expertise in HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React JS, Next JS, Express JS, Node JS, and MongoDB. I am adept at creating sleek, responsive, and dynamic web applications. I am enthusiastic about utilizing my skills to develop cutting-edge projects and collaborate with others in the tech community.
+
+### Skills
+<hr/>
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-f5a442?style=flat-square&logo=HTML5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-css3-4351ab?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ebdd17?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-050505?style=flat-square&logo=Next.js&logoColor=white" />
+
+</p>
 
 ### Current Contribution
 <hr/>
